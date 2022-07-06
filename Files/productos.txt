@@ -1,0 +1,12 @@
+{
+  "tablero": []
+}  {
+      "nombre": "Tablero de Ajedrez de Madera",
+      "id": 1
+    },
+    {
+      "nombre": "Tablero de Ajedrez Vinílico",
+      "id": 3
+    }
+  ]
+}
