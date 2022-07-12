@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Tablero",
+    "price": 525,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 1
+  },
+  {
+    "title": "Tablero",
+    "price": 204,
+    "thumbnail": "https://comprarajedrez.com/wp-content/uploads/2020/03/81hM8ahioQL._SL1500_.jpg",
+    "id": 2
+  }
+]
